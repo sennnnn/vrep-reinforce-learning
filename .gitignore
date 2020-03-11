@@ -2,4 +2,4 @@
 
 # global
 .vscode
-
+__pycache__
